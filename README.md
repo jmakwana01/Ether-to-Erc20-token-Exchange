@@ -1,12 +1,14 @@
 # Ether-to-Erc20-token-Exchange
 
+![project1](https://user-images.githubusercontent.com/87368354/134036718-cca0ec3a-8694-4275-8a09-ba0821faa4d7.jpeg)
 
-![WhatsApp Image 2021-09-12 at 8 13 09 PM (1)](https://user-images.githubusercontent.com/87368354/134036609-1788f277-db1e-40fd-8370-2f06bcd1474c.jpeg)
 
 
 Front end created by React
 
 Backend with Smart contract using solidity
+
+Erc20 created with Solidity 
 
 Demo Link:https://sad-meninsky-ce295f.netlify.app
 
