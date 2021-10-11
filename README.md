@@ -1,6 +1,6 @@
 # Ether-to-Erc20-token-Exchange
 
-![project1](https://user-images.githubusercontent.com/87368354/134036718-cca0ec3a-8694-4275-8a09-ba0821faa4d7.jpeg)
+![EthSwap Ether to Erc20 token exchange](https://user-images.githubusercontent.com/87368354/136758979-f844cabf-ac98-43a4-b4f6-64f98d5fb332.png)
 
 
 
